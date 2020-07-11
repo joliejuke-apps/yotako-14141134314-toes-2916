@@ -1,0 +1,519 @@
+.breakpoint-0 {
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  background-color: #f9f9f9
+}
+.style54 {
+  object-fit: cover;
+  margin-left: 0;
+  margin-top: 0;
+  width: 100vw;
+  height: 5.124450951683748vw;
+  z-index: 53
+}
+.mainrow1 {
+  display: flex;
+  margin-left: 7.174231332357247vw;
+  margin-top: .8823529411764706vh;
+  width: 85.50512445095168vw;
+  align-items: center
+}
+.style13,
+.style14 {
+  width: 1.0248901903367496vw;
+  height: 1.0248901903367496vw
+}
+.style13 {
+  display: flex;
+  margin-left: 0;
+  flex-direction: column;
+  z-index: 12
+}
+.style14 {
+  z-index: 13
+}
+.style4 {
+  color: rgba(255,255,255,.800000011920929);
+  font-family: roboto-1,serif;
+  font-size: .8784773060029283vw;
+  margin-left: .7320621875857888vw;
+  z-index: 3
+}
+.style15,
+.style16 {
+  width: 1.0248901903367496vw;
+  height: .7826798133235725vw
+}
+.style15 {
+  display: flex;
+  margin-left: 2.188237694311631vw;
+  align-self: center;
+  flex-direction: column;
+  z-index: 14
+}
+.style16 {
+  z-index: 15
+}
+.style5 {
+  color: rgba(255,255,255,.800000011920929);
+  font-family: roboto-1,serif;
+  font-size: .8784773060029283vw;
+  margin-left: .7400222264481149vw;
+  z-index: 4
+}
+.style17,
+.style19 {
+  width: .8207016773140099vw;
+  height: 1.0248901903367496vw
+}
+.style17 {
+  display: flex;
+  margin-left: 16.140099186150255vw;
+  flex-direction: column;
+  z-index: 16
+}
+.style19 {
+  z-index: 18
+}
+.style8 {
+  color: rgba(255,255,255,.800000011920929);
+  font-family: roboto-1,serif;
+  font-size: .8784773060029283vw;
+  margin-left: .7551581409281204vw;
+  z-index: 7
+}
+.style49 {
+  display: flex;
+  margin-left: 2.271933157656936vw;
+  width: 1.4641288433382138vw;
+  height: .7878919297046577vw;
+  z-index: 48;
+  align-self: flex-end;
+  flex-direction: column
+}
+.mainrow1container16row0,
+.style50 {
+  margin-left: 0;
+  margin-top: 0;
+  height: .7878913711838282vw
+}
+.mainrow1container16row0 {
+  display: flex;
+  width: 1.4641243751715776vw
+}
+.style50 {
+  width: .388909224011713vw;
+  z-index: 49
+}
+.mainrow1container16row0col1 {
+  display: flex;
+  margin-left: .14297686419061129vw;
+  margin-top: 0;
+  width: .9322382869692533vw;
+  height: .7878919297046577vw;
+  flex-direction: column;
+  justify-content: space-between
+}
+.style51,
+.style52,
+.style53 {
+  width: .9322382869692533vw;
+  height: .11418707025173293vw;
+  z-index: 50
+}
+.style52,
+.style53 {
+  height: .11418734951214769vw;
+  z-index: 51
+}
+.style53 {
+  z-index: 52
+}
+.style12 {
+  color: rgba(255,255,255,.800000011920929);
+  font-family: roboto-1,serif;
+  font-size: .8784773060029283vw;
+  margin-left: .6563245290194912vw;
+  z-index: 11
+}
+.style28,
+.style29 {
+  width: .8950318633899158vw;
+  height: 1.0248901903367496vw
+}
+.style28 {
+  display: flex;
+  margin-left: 2.1961932650073206vw;
+  flex-direction: column;
+  z-index: 27
+}
+.style29 {
+  z-index: 28
+}
+.style11 {
+  color: rgba(255,255,255,.800000011920929);
+  font-family: roboto-1,serif;
+  font-size: .8784773060029283vw;
+  margin-left: .7155098642821194vw;
+  z-index: 10
+}
+.style22,
+.style23 {
+  display: flex;
+  height: .8784773060029283vw
+}
+.style22 {
+  margin-left: 2.269399707174231vw;
+  align-self: flex-end;
+  flex-direction: column;
+  width: 1.3177159590043923vw;
+  z-index: 21
+}
+.style23 {
+  background-image: url(https://designresources.assets.yotako.io/80syc5aykkch8lhrv.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position-x: center;
+  background-position-y: center;
+  width: 1.3177114908377563vw;
+  z-index: 22
+}
+.mainrow1container6image6col0,
+.style24 {
+  margin-left: 0;
+  width: 1.3177159590043923vw
+}
+.mainrow1container6image6col0 {
+  display: flex;
+  margin-top: .16471449487554904vw;
+  flex-direction: column;
+  height: .5490466406893416vw
+}
+.style24 {
+  margin-top: 0;
+  height: .2196204435423911vw;
+  z-index: 23
+}
+.mainrow1container6image6col0row1 {
+  display: flex;
+  margin-left: .16471449487554904vw;
+  margin-top: .1098091047295365vw;
+  width: .9882869692532943vw;
+  height: .21961709241741398vw
+}
+.style25,
+.style26 {
+  width: .38433382137628114vw
+}
+.style25 {
+  background-image: url(https://designresources.assets.yotako.io/80syc5aykkch8lic9.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position-x: center;
+  background-position-y: center;
+  display: flex;
+  margin-left: 0;
+  flex-direction: column;
+  height: .054900363458546854vw;
+  z-index: 24
+}
+.style26 {
+  height: .05490483162518302vw;
+  z-index: 25
+}
+.style27 {
+  margin-left: .38433382137628114vw;
+  width: .21961932650073207vw;
+  height: .21961709241741398vw;
+  z-index: 26
+}
+.style10 {
+  color: rgba(255,255,255,.800000011920929);
+  font-family: roboto-1,serif;
+  font-size: .8784773060029283vw;
+  margin-left: .6588579795021962vw;
+  z-index: 9
+}
+.style20,
+.style21 {
+  width: 1.3177159590043923vw;
+  height: .8601516790655312vw
+}
+.style20 {
+  display: flex;
+  margin-left: 2.269399707174231vw;
+  align-self: flex-end;
+  flex-direction: column;
+  z-index: 19
+}
+.style21 {
+  z-index: 20
+}
+.style9 {
+  color: rgba(255,255,255,.800000011920929);
+  font-family: roboto-1,serif;
+  font-size: .8784773060029283vw;
+  margin-left: .7320644216691069vw;
+  z-index: 8
+}
+.style41,
+.style42 {
+  width: 1.0248901903367496vw;
+  height: 1.0248915866388235vw
+}
+.style41 {
+  display: flex;
+  margin-left: 2.269399707174231vw;
+  flex-direction: column;
+  z-index: 40
+}
+.style42 {
+  z-index: 41
+}
+.style38 {
+  color: rgba(255,255,255,.800000011920929);
+  font-family: roboto-1,serif;
+  font-size: .8784773060029283vw;
+  margin-left: .6588579795021962vw;
+  z-index: 37
+}
+.style2 {
+  background-color: #fbfbfb;
+  display: flex;
+  margin-left: 0;
+  margin-top: 1.1764705882352942vh;
+  width: 100vw;
+  height: 5.856515373352855vw;
+  z-index: 1
+}
+.maincontainer0col0 {
+  display: flex;
+  margin-left: 7.174231332357247vw;
+  margin-top: .9516837481698389vw;
+  width: 85.65153733528551vw;
+  height: 4.978038067349927vw;
+  flex-direction: column
+}
+.maincontainer0col0row0 {
+  display: flex;
+  margin-left: 0;
+  margin-top: 0;
+  width: 85.43191800878478vw;
+  height: 3.513909224011713vw
+}
+.style30,
+.style6 {
+  color: #303030;
+  font-family: roboto-1,serif
+}
+.style30 {
+  font-weight: 900;
+  margin-left: 0;
+  margin-top: 0;
+  font-size: 2.6354319180087846vw;
+  z-index: 29
+}
+.style6 {
+  font-size: .8784773060029283vw;
+  margin-left: 2.049780380673499vw;
+  margin-top: .8052708638360175vw;
+  z-index: 5
+}
+.style33 {
+  background-color: #f9f9f9;
+  border-left: .07320644216691069vw solid #e1e1e1;
+  border-right: .07320644216691069vw solid #e1e1e1;
+  border-top: .07320644216691069vw solid #e1e1e1;
+  border-bottom: .07320644216691069vw solid #e1e1e1;
+  display: flex;
+  margin-left: 3.001464128843338vw;
+  margin-top: .5124450951683748vw;
+  width: 33.674963396778914vw;
+  height: 2.9282576866764276vw;
+  z-index: 32;
+  flex-direction: column;
+  justify-content: center;
+  border-radius: 1.4641288433382138vw
+}
+.maincontainer0col0row0container9row0 {
+  display: flex;
+  margin-left: 1.4641288433382138vw;
+  margin-top: 0;
+  width: 32.210834553440705vw;
+  height: 2.9282576866764276vw;
+  align-items: center
+}
+.style35 {
+  color: #979797;
+  font-family: roboto-1,serif;
+  font-size: 1.0248901903367496vw;
+  font-weight: 300;
+  margin-left: 0;
+  z-index: 34;
+  align-self: center
+}
+.style34 {
+  background-color: #ff8e0a;
+  display: flex;
+  margin-left: 24.011713030746705vw;
+  width: 5.124450951683748vw;
+  height: 2.9282576866764276vw;
+  z-index: 33;
+  flex-direction: column;
+  justify-content: center;
+  border-radius: 0 1.4641288433382138vw 0 1.4641288433382138vw
+}
+.style36,
+.style37 {
+  width: 1.2721987454817898vw;
+  height: 1.3177159590043923vw
+}
+.style36 {
+  display: flex;
+  z-index: 35
+}
+.style37 {
+  z-index: 36
+}
+.style7 {
+  color: #ff8e0a;
+  font-family: roboto-1,serif;
+  font-size: .8784773060029283vw;
+  margin-left: 2.9282576866764276vw;
+  margin-top: .8052708638360175vw;
+  z-index: 6
+}
+.style31 {
+  display: flex;
+  margin-left: 2.562225475841874vw;
+  margin-top: 1.0272801009662678vw;
+  width: 2.1961932650073206vw;
+  height: 1.8558524538098806vw;
+  z-index: 30;
+  flex-direction: column
+}
+.style32,
+.style45 {
+  position: relative;
+  display: flex
+}
+.style32 {
+  background-image: url(https://designresources.assets.yotako.io/80syc5aykkch8ljhl.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position-x: center;
+  background-position-y: center;
+  width: 2.1961932650073206vw;
+  height: 1.8558524538098806vw;
+  z-index: 31
+}
+.style45 {
+  background-color: #ff8e0a;
+  margin-left: 1.4641288433382138vw;
+  margin-top: -.1488027949633396vw;
+  width: 1.4641288433382138vw;
+  height: 1.4641288433382138vw;
+  z-index: 44;
+  align-items: center;
+  flex-direction: column;
+  flex-shrink: 0;
+  justify-content: center;
+  border-radius: 50%
+}
+.style47 {
+  color: #fff;
+  font-family: roboto-1,serif;
+  font-size: .7320644216691069vw;
+  z-index: 46
+}
+.style43 {
+  display: flex;
+  margin-left: 3.6706525096083453vw;
+  margin-top: .8784773060029283vw;
+  width: 2.1961932650073206vw;
+  height: 2.1961932650073206vw;
+  z-index: 42;
+  flex-direction: column
+}
+.style44,
+.style46 {
+  position: relative;
+  display: flex
+}
+.style44 {
+  background-image: url(https://designresources.assets.yotako.io/80syc5aykkch8lkbb.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position-x: center;
+  background-position-y: center;
+  width: 2.1961932650073206vw;
+  height: 2.1961932650073206vw;
+  z-index: 43
+}
+.style46 {
+  background-color: #ff8e0a;
+  margin-left: 1.4537984420754027vw;
+  width: 1.4641288433382138vw;
+  height: 1.4641288433382138vw;
+  z-index: 45;
+  align-items: center;
+  flex-direction: column;
+  flex-shrink: 0;
+  justify-content: center;
+  border-radius: 50%
+}
+.style48 {
+  color: #fff;
+  font-family: roboto-1,serif;
+  font-size: .7320644216691069vw;
+  z-index: 47
+}
+.maincontainer0col0row0col6 {
+  display: flex;
+  margin-left: 1.4537984420754027vw;
+  margin-top: .36603221083455345vw;
+  width: 4.026354319180088vw;
+  height: 2.781844802342606vw;
+  flex-direction: column
+}
+.style39,
+.style40 {
+  color: #303030;
+  font-family: roboto-1,serif
+}
+.style40 {
+  font-weight: 700;
+  margin-top: 0;
+  font-size: 1.171303074670571vw;
+  z-index: 39
+}
+.style39 {
+  font-size: .8784773060029283vw;
+  margin-top: .07320644216691069vw;
+  z-index: 38
+}
+.style3 {
+  background-color: #fbfbfb;
+  border-left: .07320644216691069vw solid #e2e2e2;
+  border-right: .07320644216691069vw solid #e2e2e2;
+  border-top: .07320644216691069vw solid #e2e2e2;
+  border-bottom: .07320644216691069vw solid #e2e2e2;
+  margin-left: 0;
+  margin-top: 1.390922401171303vw;
+  width: 85.65153733528551vw;
+  height: .07320644216691069vw;
+  z-index: 2
+}
+.style1 {
+  object-fit: cover;
+  box-shadow: 0 3px 6px 0 rgba(0,0,0,.1607843137254902);
+  margin-left: 0;
+  margin-top: 7.352941176470589vh;
+  width: 100vw;
+  height: 35.13909224011713vw;
+  z-index: 0
+}
+.breakpoint-0 {
+  display: block
+}
